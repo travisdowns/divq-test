@@ -1,0 +1,9 @@
+# emacs temporary files
+*~
+
+# binaries
+bin/*
+obj/*
+
+# corefiles
+core
